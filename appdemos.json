@@ -1,10 +1,10 @@
 {
   "version":1,
   "demos":{
-    "twitter-ui":{
-      "id":"twitter-ui",
-      "title":"Twitter UI Demo",
-      "path-git":"appdemos/twitter-ui",
+    "twitter-ui": {
+      "id": "twitter-ui",
+      "title": "Twitter UI Demo",
+      "path-git": "appdemos/twitter-ui",
       "runnable":[
         "win",
         "mac",
@@ -13,9 +13,9 @@
         "android",
         "wasm"
       ],
-      "shortDescription":"description for list view or grid view entry",
-      "description":"<html>flexible html code</html>",
-      "overviewImage":"<url>",
+      "shortDescription": "description for list view or grid view entry",
+      "description": "<html>flexible html code</html>",
+      "overviewImage": "<url>",
       "genres":[
         "xxx",
         "??"
@@ -29,23 +29,23 @@
         "appbutton",
         "??"
       ],
-      "complexity":"Medium",
-      "order":2,
-      "linesOfCode":1900,
+      "complexity": "Medium",
+      "order": 2,
+      "linesOfCode": 1900,
       "images":[
         "https://felgo.com/wp-content/themes/felgo/images/showcases/apps/showcase/controls.png"
       ],
-      "main":"Main.qml",
-      "path-cloud-ide":"https://ide.felgo.com/projects/new?zipfile=\"https://github.com/FelgoSDK/Qt-World-Summit-Conference-App/blob/master.zip\"",
-      "path-live":"path to source on device for live reloading, if needed",
+      "main": "Main.qml",
+      "path-cloud-ide": "https://ide.felgo.com/projects/new?zipfile=\"https://github.com/FelgoSDK/Qt-World-Summit-Conference-App/blob/master.zip\"",
+      "path-live": "path to source on device for live reloading, if needed",
       "path-desktop":{
-        "pro":"Examples/Felgo/appdemos/twitter/Twitter.pro",
-        "folder":"Examples/Felgo/appdemos/twitter"
+        "pro": "Examples/Felgo/appdemos/twitter/Twitter.pro",
+        "folder": "Examples/Felgo/appdemos/twitter"
       },
-      "doc-link":"https://felgo.com/doc/felgo-appdemos-twitter-example/",
-      "category":"ae"
+      "doc-link": "https://felgo.com/doc/felgo-appdemos-twitter-example/",
+      "category": "ae"
     },
-    "bootstrap-ui":{
+    "bootstrap-ui": {
       "id":"bootstrap-ui",
       "title":"Bootstrap UI Demo",
       "path-git":"appdemos/bootstrap-ui",
@@ -73,22 +73,22 @@
         "appbutton",
         "??"
       ],
-      "complexity":"Medium",
-      "order":2,
-      "linesOfCode":1900,
+      "complexity": "Medium",
+      "order":1 ,
+      "linesOfCode": 1900,
       "images":[
         "https://felgo.com/wp-content/themes/felgo/images/showcases/apps/showcase/qtws.png",
         "https://felgo.com/wp-content/themes/felgo/images/showcases/apps/showcase/twitter.png"
       ],
-      "main":"Main.qml",
-      "path-cloud-ide":"https://ide.felgo.com/projects/new?zipfile=\"https://github.com/FelgoSDK/Qt-World-Summit-Conference-App/blob/master.zip\"",
-      "path-live":"path to source on device for live reloading, if needed",
+      "main": "Main.qml",
+      "path-cloud-ide": "https://ide.felgo.com/projects/new?zipfile=\"https://github.com/FelgoSDK/Qt-World-Summit-Conference-App/blob/master.zip\"",
+      "path-live": "path to source on device for live reloading, if needed",
       "path-desktop":{
-        "pro":"Examples/Felgo/appdemos/twitter/Twitter.pro",
-        "folder":"Examples/Felgo/appdemos/twitter"
+        "pro": "Examples/Felgo/appdemos/twitter/Twitter.pro",
+        "folder": "Examples/Felgo/appdemos/twitter"
       },
-      "doc-link":"https://felgo.com/doc/felgo-appdemos-twitter-example/",
-      "category":"ae"
+      "doc-link": "https://felgo.com/doc/felgo-appdemos-twitter-example/",
+      "category": "at"
     }
   }
 }
